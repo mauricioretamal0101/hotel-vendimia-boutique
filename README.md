@@ -33,3 +33,9 @@ Incluye:
 - **Dominio/correo:** no cambiar DNS del dominio `hotelvendimia.cl` hasta validar la web, la conexión de reservas y registrar previamente MX, SPF, DKIM y DMARC.
 
 Los dominios y correos oficiales siguen fuera de este repositorio. No guardar contraseñas, datos de huéspedes ni claves API en GitHub público.
+
+## Recordatorio pendiente para próxima revisión (solicitado por el usuario)
+
+- Solicitar el **logo definitivo de Hotel Vendimia Boutique Premium**; el usuario lo enviará en la próxima sesión o más adelante.
+- Corregir las fotografías cruzadas: aparece una piscina del Parador en el Boutique y una piscina del Boutique etiquetada como estacionamiento.
+- Revisar asignación de cada fotografía e importar originales de ambos hoteles.
