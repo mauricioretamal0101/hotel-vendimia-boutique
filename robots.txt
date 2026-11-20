@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# Sitio temporal de prueba; retirar la restricción cuando el dominio oficial migre.
